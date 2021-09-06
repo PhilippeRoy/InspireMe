@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T04:49:45.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Nm3Io5nOXx2TtoJrbFpx" version="15.0.6" type="github"><diagram id="_euQ7IaBgQ6lgoaX-VvD" name="Page-1">zZRtb4IwEMc/DS+3QBF1LxV1WzLnUxZfV3oDsmKxlqF++h3jFAkz25KZLCHk+u/dtfe7Sy3XT3b3mqfRWAmQFrPFznIHFmNOizGr+GyxL5WuTUKoY0FOlbCID0CiTWoWC9jWHI1S0sRpXQzUeg2BqWlca5XX3V6VrJ+a8hAawiLgsqkuY2EiqoJ1Kv0B4jA6nuy078qdhB+dqZJtxIXKzyR3aLm+VsqUVrLzQRbwjlzKuNGF3dPFNKzNTwJm083Km9uzl6696cH4cGD55Iaa8c5lRgX3DpkGi7UlJu2vNFphYflqmyj0HPSpGrM/IsLC0sIM9jJeC9AuuudRbGCR8qDYyHE0UItMInHlFHlVhp7iaXUSePAW6kKdZAbTAOnbciAcD226KmgDu4sMnBNZHElQCRi9RxcKcLutMoSm0bO9cp1XvW1Tv6KztnZJ4zRN4SlzBRwNYv4L/q0m/+ljk/7tMxir6O8I/8NRowW65EnQvoH/Fxy9Oke30+TosC9Atq8F0muAXMKqCXIOHB+J/4YPhavhw2X1xnzunb3U7vAD</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-06T05:03:42.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ZyHADUUxxywMu2dCAOLi" version="15.0.6" type="github">
+  <diagram id="_euQ7IaBgQ6lgoaX-VvD" name="Page-1">
+    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QPqb5R0QU80qAeMzz2wO-2" value="Azure&lt;br&gt;Cosmo DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="384" y="505" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QPqb5R0QU80qAeMzz2wO-4" value="API&lt;br&gt;.Net / EF" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QPqb5R0QU80qAeMzz2wO-5" value="Web&lt;br&gt;React / Nx" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
