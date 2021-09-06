@@ -69,6 +69,8 @@ In this project i explore various technologies, design pattern and techniques to
 - Logging
 - Github Pages
 - Code Scan
+- Branch Protection
+- Scrum/Kanban 
 
 ### Testing
 - Unit Testing
