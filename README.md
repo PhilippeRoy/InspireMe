@@ -67,6 +67,8 @@ In this project i explore various technologies, design pattern and techniques to
 - Semantic Versioning
 - Database Migration
 - Logging
+- Github Pages
+- Code Scan
 
 ### Testing
 - Unit Testing
